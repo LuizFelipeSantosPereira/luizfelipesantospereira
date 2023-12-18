@@ -1,36 +1,26 @@
 <h1 align="center">Hi 👋, I'm Luiz Felipe!</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **ODS NO BRASIL**
+- 🔭 I’m currently working on FerAlvarez
 
-- 🌱 I’m currently learning **X**
+- 🌱 I’m currently learning Web Development with react ecosystem + nodeJS
 
-- 👯 I’m looking to collaborate on **X**
-
-- 🤝 I’m looking for help with **X**
-
-- 👨‍💻 All of my projects are available at [X](X)
-
-- 💬 Ask me about **X**
-
-- 📫 How to reach me **X**
-
-- 📄 Know about my experiences [X](X)
+- 📫 How to reach me: luizfsp.dev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/x" target="blank">
+<!--   <a href="https://dev.to/x" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="x" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/x" target="blank">
+  </a> -->
+  <a href="https://www.linkedin.com/in/luiz-felipe-dos-santos-pereira-aa7494220/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="x" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@x" target="blank">
+<!--   <a href="https://medium.com/@x" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@x" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/X" target="blank">
+  </a> -->
+<!--   <a href="https://discord.gg/X" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="X" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
